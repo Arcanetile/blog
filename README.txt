@@ -1,12 +1,11 @@
-Striped by HTML5 UP
+TXT by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-And here's a new one: Striped, which features a clean, minimalistic design, styling for
-all basic page elements (including blockquotes, tables and lists), a repositionable
-sidebar (left or right), and HTML5/CSS3 code designed for quick and easy customization
-(see code comments for details).
+A new, fully responsive portfolio/business style website template. I've been experimenting
+with minimalist styles lately and this design is one of many in the works that exemplifies
+this new direction. Hope you enjoy it.
 
 Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
 you can use for pretty much whatever.
@@ -31,5 +30,7 @@ Credits:
 		jQuery (jquery.com)
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 		CSS3 Pie (css3pie.com)
+		background-size polyfill (github.com/louisremi)
 		Respond.js (j.mp/respondjs)
+		jquery.dropotron (@ajlkn)
 		Skel (skel.io)
